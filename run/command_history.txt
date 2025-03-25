@@ -1,0 +1,16 @@
+/time set noon
+/give @s homakmod:processed_ancient_remains_block
+/time set noon
+/weather clear
+/time set noon
+/gamerule doDaylightCycle false
+/enchant Player145 minecraft:sharpness 5
+/summon minecraft:iron_golem
+/give @s homakmod:soul_grabber
+/time set noon
+/gamerule doDaylightCycle false
+/summon minecraft:iron_golem
+/time set noon
+/gamerule doDaylightCycle false
+/data get entity
+/data get entity 2eb00b43-50ec-4012-a5c6-aa8eb6e8c558

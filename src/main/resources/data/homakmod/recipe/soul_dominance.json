@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "nEn",
+    "P_P"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_block"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "P": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "_": {
+      "item": "minecraft:polished_deepslate_slab"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_dominance",
+    "count": 1
+  }
+}

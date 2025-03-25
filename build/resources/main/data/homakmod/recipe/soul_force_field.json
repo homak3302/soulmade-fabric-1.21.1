@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "SYS",
+    "PSP"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_lantern"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "Y": {
+      "item": "minecraft:ender_pearl"
+    },
+    "P": {
+      "item": "minecraft:polished_deepslate"
+    }
+  },
+  "result": {
+    "id": "homakmod:soul_force_field",
+    "count": 1
+  }
+}

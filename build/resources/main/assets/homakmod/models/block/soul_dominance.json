@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "particle": "homakmod:block/soul_dominance_side",
+    "down": "homakmod:block/soul_dominance_top",
+    "up": "homakmod:block/soul_dominance_top",
+    "north": "homakmod:block/soul_dominance_side",
+    "east": "homakmod:block/soul_dominance_side",
+    "south": "homakmod:block/soul_dominance_side",
+    "west": "homakmod:block/soul_dominance_side"
+  }
+}
